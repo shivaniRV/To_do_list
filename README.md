@@ -1,9 +1,5 @@
-# To_do_list
-
-HTML, CSS ,JS
-
 ## Simple Todo List App Docs
-
+   HTML, CSS ,JS
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
